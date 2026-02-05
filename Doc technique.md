@@ -68,10 +68,11 @@ Le rapport présente une excellente réactivité avec un temps de chargement moy
 
 ### 2. Facteurs de performance
 
--   Utilisation d’un modèle en étoile optimisé pour le moteur VertiPaq
+-   Utilisation d’un modèle en étoile optimisé
 -   Relations simples entre tables de dimensions et table de faits
 -   Calculs optimisés limitant la complexité des requêtes
 
 ### 3. Visuels
 
 Les cartes et graphiques d’évolution temporelle sont les éléments les plus consommateurs en ressources, mais restent fluides grâce à l’optimisation globale du modèle.
+
