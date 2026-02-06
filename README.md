@@ -10,7 +10,11 @@ Le travail a été effectué en présentiel à l’IUT, avec un partage des donn
 Lien vers le dossier contenant le fichier CSV utilisé pour l’analyse :  
 https://univlyon2fr-my.sharepoint.com/:f:/g/personal/nsenechal_univ-lyon2_fr/IgDc_sLPC5MJSKT1qoAIV7EnAUOdtsyBtXoBaWoxh1Mb_lw?e=4pGe84
 
-### 2. Power BI
+### 2. Power BI 
+Lien vers le rapport Power BI en téléchargement (visible que si connecté avec Lyon 2) :  
+https://univlyon2fr-my.sharepoint.com/:u:/g/personal/lnugier2_univ-lyon2_fr/IQAKzrVsjUAVRqqRSJVehwxmAWctt1SaMt-2QT1wKDXUKoI?e=420kcW
+
+### 2. Power BI services
 Lien vers le rapport Power BI en ligne :  
 https://app.powerbi.com/links/JEB-DnQ2tS?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
@@ -41,10 +45,7 @@ Cependant, les branches ont été peu utilisées, car le projet a principalement
 - Document technique  
 - Document fonctionnel  
 
-### 2. Fichiers Power BI
-- Enedis.pbix  
-
-### 3. Consignes
+### 2. Consignes
 - Consignes du projet fournies par l’enseignant
 
 ## V. Objectif final
