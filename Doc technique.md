@@ -55,7 +55,9 @@ Des règles de sécurité au niveau des lignes ont été définies afin de restr
 
 -   **Analyste départemental**\
     Accès limité aux données correspondant à un seul département via un filtrage automatique sur le code département BAN.
-
+-   **Admin**\
+    Accès illimité aux données.
+    
 ### 3. Objectif
 
 Garantir la confidentialité des données tout en maintenant une analyse pertinente à l’échelle territoriale.
@@ -64,7 +66,7 @@ Garantir la confidentialité des données tout en maintenant une analyse pertine
 
 ### 1. Diagnostic global
 
-Le rapport présente une excellente réactivité avec un temps de chargement moyen inférieur à une seconde.
+Le rapport présente une bonne réactivité avec un temps de chargement moyen largement inférieur à une seconde (200ms sur filtrage des DPEs).
 
 ### 2. Facteurs de performance
 
@@ -75,4 +77,5 @@ Le rapport présente une excellente réactivité avec un temps de chargement moy
 ### 3. Visuels
 
 Les cartes et graphiques d’évolution temporelle sont les éléments les plus consommateurs en ressources, mais restent fluides grâce à l’optimisation globale du modèle.
+
 
