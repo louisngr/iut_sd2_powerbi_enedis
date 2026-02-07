@@ -45,7 +45,11 @@ Cependant, les branches ont été peu utilisées, car le projet a principalement
 - Document technique  
 - Document fonctionnel  
 
-### 2. Consignes
+### 2. Documents complémentaires
+- Rapport de performance réalisé sur Power BI
+- Maquette du rapport ainsi que sa charte graphique
+
+### 3. Consignes
 - Consignes du projet fournies par l’enseignant
 
 ## V. Objectif final
